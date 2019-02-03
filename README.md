@@ -8,13 +8,18 @@ Resource Generator for Laravel Nova
 
 ![Resource Generator Tool](https://user-images.githubusercontent.com/3589377/52174968-74d4df00-279c-11e9-8538-87aac6721e8b.png)
 
+##### IMPORTANT
+ 
+I create this, for personal project, so don't use in production, be free to fork it, and customize :)
+
+
 
 ### Installation
 
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require cloudstudio/nova-time-tracker-field
+composer require cloudstudio/time-tracker
 ```
 
 Next up, you must register the field with Nova. This is typically done in the resource file.
