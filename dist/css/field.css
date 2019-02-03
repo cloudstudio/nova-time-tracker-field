@@ -1,0 +1,40 @@
+@media (max-width: 992px) {
+  .h-header {
+    display: none !important;
+  }
+
+  .content {
+    padding-top: 0 !important;
+  }
+
+  .content .relative .text-2xl {
+    display: none !important;
+  }
+
+  button[type=submit] {
+    display: none !important;
+  }
+
+  .unsplash {
+    height: 250px;
+  }
+
+  .timetracker {
+    margin-bottom: -40px;
+    margin-left: -2rem;
+    margin-right: -2rem;
+    margin-top: -2rem;
+  }
+
+  form > .flex > button {
+    margin-bottom: 10px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
