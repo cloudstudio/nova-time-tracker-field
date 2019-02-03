@@ -462,7 +462,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
     filters: {
         addZero: function addZero(value) {
-            value > 10 ? '0' + value : value;
+            value < 10 ? value = '0' + value : value;
             return value;
         }
     },

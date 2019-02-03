@@ -50,7 +50,7 @@ export default {
 
     filters: {
       addZero: function (value) {
-        value > 10 ? '0' + value : value;
+        value < 10 ? value = '0' + value : value;
         return value;
       }
     },
