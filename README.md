@@ -10,7 +10,7 @@ Resource Generator for Laravel Nova
 
 ### IMPORTANT
  
-I create this, for personal project, so don't use in production, be free to fork it, and customize :)
+I create this, for a personal project, don't use in Production, be free to fork it, and customize :)
 
 
 
