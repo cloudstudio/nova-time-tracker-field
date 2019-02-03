@@ -8,7 +8,7 @@ Resource Generator for Laravel Nova
 
 ![Resource Generator Tool](https://user-images.githubusercontent.com/3589377/52174968-74d4df00-279c-11e9-8538-87aac6721e8b.png)
 
-##### IMPORTANT
+### IMPORTANT
  
 I create this, for personal project, so don't use in production, be free to fork it, and customize :)
 
