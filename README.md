@@ -1,12 +1,12 @@
 # Nova TimeTracker Field
 
-[![Total Downloads](https://img.shields.io/packagist/dt/cloudstudio/resource-generator.svg?style=flat-square)](https://packagist.org/packages/cloudstudio/resource-generator)
+[![Total Downloads](https://img.shields.io/packagist/dt/cloudstudio/time-tracker.svg?style=flat-square)](https://packagist.org/packages/cloudstudio/time-tracker)
 
 Resource Generator for Laravel Nova
 
-##### Resource Generator Tool preview
+##### TimeTracker Field Preview
 
-![Resource Generator Tool](https://user-images.githubusercontent.com/74367/46522091-12b5ad00-c882-11e8-8ff6-6af312fa2a42.png)
+![Resource Generator Tool](https://user-images.githubusercontent.com/3589377/52174968-74d4df00-279c-11e9-8538-87aac6721e8b.png)
 
 
 ### Installation
