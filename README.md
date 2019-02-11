@@ -2,7 +2,7 @@
 
 [![Total Downloads](https://img.shields.io/packagist/dt/cloudstudio/time-tracker.svg?style=flat-square)](https://packagist.org/packages/cloudstudio/time-tracker)
 
-Resource Generator for Laravel Nova
+Time Tracker Field for Laravel Nova
 
 ##### TimeTracker Field Preview
 
@@ -10,7 +10,9 @@ Resource Generator for Laravel Nova
 
 ### IMPORTANT
  
-I create this, for a personal project, don't use in Production, be free to fork it, and customize :)
+I create this for a personal project, be free to fork it, and customize :)
+
+I modify some css ( responsive ), so use https://packagist.org/packages/gregoriohc/laravel-nova-theme-responsive
 
 
 
